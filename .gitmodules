@@ -1,0 +1,4 @@
+[submodule "subproject"]
+	path = subproject
+	url = git@github.com:aewsb/subproject.git
+	branch = master
